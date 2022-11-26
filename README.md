@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GodsageElfstone
+- 👀 I’m interested in data analytics, financial modellinh, data visualisation, finance and research and academic writing.
+- 🌱 I’m currently learning data analytics with R, Python and Tableau.
+- 💞️ I’m looking to collaborate on finding insights in data and publishing of articles.
+- 📫 How to reach me on linkeIn @ linkedIn/mawukomenz and on Twitter as @Elfstone_Inc
